@@ -1,0 +1,8 @@
+
+*.sketch
+*.fig
+style-guide.md
+fonts
+*.xd
+.DS_Store
+.prettierignore
