@@ -13,8 +13,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](Screenshot.jpg)
-![](Screenshot-mobile.jpg)
+![](Screenshot.png)
+![](Screenshot-mobile.png)
 
 
 ### Links
@@ -36,6 +36,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@Aditya-en](https://www.frontendmentor.io/profile/Aditya-en)
 - Twitter - [@adit__twts](https://www.twitter.com/adit__twts)
